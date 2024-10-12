@@ -1,6 +1,6 @@
 plugins {
-    id "com.wahooga.application"
-    id "kotlin-wahooga"
+    id "com.wahooga_android_dir.application"
+    id "kotlin-wahooga_android_dir"
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id "dev.flutter.flutter-gradle-plugin"
 }
